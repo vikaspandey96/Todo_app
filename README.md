@@ -25,3 +25,14 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/vikaspandey96/todo-list-app.git
+2. Navigate to the project directory:
+
+   ```bash
+    cd todo-list-app
+3. Open the index.html file in your web browser.
+
+   
+## How It Works
+- **HTML**: The index.html file provides the structure for the input field, button, and task list.
+- **CSS**: The styles.css file styles the app, including the layout, colors, and responsive design.
+- **JavaScript**: The script.js file contains the logic for adding tasks, deleting tasks, toggling task completion, and saving data to localStorage.
